@@ -1,10 +1,11 @@
 package cn.iiss.jpa.support;
 
+import cn.iiss.commons.exception.ValidationException;
+import cn.iiss.commons.model.ValidateResult;
+import cn.iiss.commons.validator.ValidateGroup;
+
 import static org.springframework.util.CollectionUtils.isEmpty;
 
-import cn.iiss.common.exception.ValidationException;
-import cn.iiss.common.model.ValidateResult;
-import cn.iiss.common.validator.ValidateGroup;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;

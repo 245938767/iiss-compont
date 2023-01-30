@@ -9,6 +9,16 @@
         <version>2.6.3</version>
         <relativePath/>
     </parent>
+
+    <distributionManagement>
+        <repository>
+            <!--必须与 settings.xml 的 id 一致-->
+            <id>aa245938767-warehouse-compoent</id>
+            <name>compoent</name>
+            <url>https://aa245938767-maven.pkg.coding.net/repository/warehouse/compoent/</url>
+        </repository>
+    </distributionManagement>
+
     <groupId>cn.iiss</groupId>
     <artifactId>iiss-bom</artifactId>
     <version>1.0.0</version>

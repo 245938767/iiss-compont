@@ -1,7 +1,7 @@
 package cn.iiss.jpa.support;
 
 import com.google.common.base.Preconditions;
-import cn.iiss.common.validator.CreateGroup;
+import cn.iiss.commons.validator.CreateGroup;
 import io.vavr.control.Try;
 import java.util.Objects;
 import java.util.Optional;

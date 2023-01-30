@@ -1,6 +1,7 @@
 package cn.iiss.jpa.converter;
 
-import cn.iiss.common.constants.ValidStatus;
+
+import cn.iiss.commons.constants.ValidStatus;
 
 import javax.persistence.AttributeConverter;
 

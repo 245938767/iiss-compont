@@ -7,12 +7,24 @@
         <groupId>cn.iiss</groupId>
         <version>1.0.0</version>
     </parent>
+
     <modelVersion>4.0.0</modelVersion>
     <artifactId>iiss-commons</artifactId>
     <version>1.0.0</version>
+
+    <distributionManagement>
+        <repository>
+            <!--必须与 settings.xml 的 id 一致-->
+            <id>aa245938767-warehouse-compoent</id>
+            <name>compoent</name>
+            <url>https://aa245938767-maven.pkg.coding.net/repository/warehouse/compoent/</url>
+        </repository>
+    </distributionManagement>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>

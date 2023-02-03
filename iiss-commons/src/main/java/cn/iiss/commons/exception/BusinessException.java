@@ -1,7 +1,7 @@
-package cn.iiss.commonss.exception;
+package cn.iiss.commons.exception;
 
 
-import cn.iiss.commonss.constants.BaseEnum;
+import cn.iiss.commons.constants.BaseEnum;
 
 /**
  * 业务异常

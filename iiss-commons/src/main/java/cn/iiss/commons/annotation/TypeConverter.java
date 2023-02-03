@@ -1,4 +1,4 @@
-package cn.iiss.commonss.annotation;
+package cn.iiss.commons.annotation;
 
 import java.lang.annotation.*;
 

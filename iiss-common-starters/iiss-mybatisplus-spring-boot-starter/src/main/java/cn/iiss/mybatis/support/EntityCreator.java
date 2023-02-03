@@ -2,7 +2,7 @@ package cn.iiss.mybatis.support;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.google.common.base.Preconditions;
-import cn.iiss.commonss.validator.CreateGroup;
+import cn.iiss.commons.validator.CreateGroup;
 import io.vavr.control.Try;
 import java.util.Objects;
 import java.util.Optional;

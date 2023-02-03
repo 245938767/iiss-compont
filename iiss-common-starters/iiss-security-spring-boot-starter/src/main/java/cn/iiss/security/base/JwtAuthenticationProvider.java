@@ -1,6 +1,6 @@
 package cn.iiss.security.base;
 
-import cn.iiss.commonss.constants.CodeEnum;
+import cn.iiss.commons.constants.CodeEnum;
 import cn.iiss.security.base.extension.UserContextAware;
 import cn.iiss.security.exception.CustomAuthenticationException;
 import cn.iiss.security.exception.ParseTokenException;

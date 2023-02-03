@@ -1,4 +1,4 @@
-package cn.iiss.commonss.exception;
+package cn.iiss.commons.exception;
 
 /**
  * 系统异常

@@ -1,7 +1,7 @@
-package cn.iiss.commonss.model;
+package cn.iiss.commons.model;
 
-import cn.iiss.commonss.constants.BaseEnum;
-import cn.iiss.commonss.constants.CodeEnum;
+import cn.iiss.commons.constants.BaseEnum;
+import cn.iiss.commons.constants.CodeEnum;
 import lombok.AccessLevel;
 import lombok.Data;
 import lombok.Setter;

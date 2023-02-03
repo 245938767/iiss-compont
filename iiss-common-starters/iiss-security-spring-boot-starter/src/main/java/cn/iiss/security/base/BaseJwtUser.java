@@ -1,6 +1,6 @@
 package cn.iiss.security.base;
 
-import cn.iiss.commonss.annotation.FieldDesc;
+import cn.iiss.commons.annotation.FieldDesc;
 import java.io.Serializable;
 import java.util.Collection;
 import java.util.Map;

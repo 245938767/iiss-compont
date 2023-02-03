@@ -1,7 +1,7 @@
 package cn.iiss.security.base;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import cn.iiss.commonss.model.JsonObject;
+import cn.iiss.commons.model.JsonObject;
 import java.io.IOException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

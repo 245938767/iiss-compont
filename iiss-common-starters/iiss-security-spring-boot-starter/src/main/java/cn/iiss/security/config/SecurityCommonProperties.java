@@ -1,6 +1,6 @@
 package cn.iiss.security.config;
 
-import cn.iiss.commonss.annotation.FieldDesc;
+import cn.iiss.commons.annotation.FieldDesc;
 import com.google.common.collect.Lists;
 import java.util.List;
 import lombok.Data;

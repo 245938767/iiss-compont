@@ -1,4 +1,4 @@
-package cn.iiss.commons.validator;
+package cn.iiss.commonss.validator;
 
 public interface ValidateGroup {
 

@@ -1,7 +1,7 @@
 package cn.iiss.security.config;
 
 
-import cn.iiss.commons.annotation.FieldDesc;
+import cn.iiss.commonss.annotation.FieldDesc;
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

@@ -1,8 +1,8 @@
 package cn.iiss.mybatis.support;
 
-import cn.iiss.commons.exception.ValidationException;
-import cn.iiss.commons.model.ValidateResult;
-import cn.iiss.commons.validator.ValidateGroup;
+import cn.iiss.commonss.exception.ValidationException;
+import cn.iiss.commonss.model.ValidateResult;
+import cn.iiss.commonss.validator.ValidateGroup;
 
 import static org.springframework.util.CollectionUtils.isEmpty;
 

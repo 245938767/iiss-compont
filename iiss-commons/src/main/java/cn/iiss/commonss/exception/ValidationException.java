@@ -1,6 +1,6 @@
-package cn.iiss.commons.exception;
+package cn.iiss.commonss.exception;
 
-import cn.iiss.commons.model.ValidateResult;
+import cn.iiss.commonss.model.ValidateResult;
 import lombok.Getter;
 
 import java.util.List;

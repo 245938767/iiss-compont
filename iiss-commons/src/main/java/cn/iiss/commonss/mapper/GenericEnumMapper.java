@@ -1,7 +1,7 @@
-package cn.iiss.commons.mapper;
+package cn.iiss.commonss.mapper;
 
 
-import cn.iiss.commons.constants.ValidStatus;
+import cn.iiss.commonss.constants.ValidStatus;
 
 public class GenericEnumMapper {
 

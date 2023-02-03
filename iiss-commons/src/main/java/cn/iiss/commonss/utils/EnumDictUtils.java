@@ -1,8 +1,8 @@
-package cn.iiss.commons.utils;
+package cn.iiss.commonss.utils;
 
 
-import cn.iiss.commons.constants.BaseEnum;
-import cn.iiss.commons.model.EnumVo;
+import cn.iiss.commonss.constants.BaseEnum;
+import cn.iiss.commonss.model.EnumVo;
 
 import java.util.EnumSet;
 import java.util.List;

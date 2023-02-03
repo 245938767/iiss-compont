@@ -1,4 +1,4 @@
-package cn.iiss.commons.constants;
+package cn.iiss.commonss.constants;
 
 /**
  *

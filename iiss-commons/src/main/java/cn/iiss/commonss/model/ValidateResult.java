@@ -1,4 +1,4 @@
-package cn.iiss.commons.model;
+package cn.iiss.commonss.model;
 
 import lombok.Value;
 

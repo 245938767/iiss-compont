@@ -2,9 +2,9 @@ package cn.iiss.mybatis.support;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.google.common.base.Preconditions;
-import cn.iiss.commons.constants.CodeEnum;
-import cn.iiss.commons.exception.BusinessException;
-import cn.iiss.commons.validator.UpdateGroup;
+import cn.iiss.commonss.constants.CodeEnum;
+import cn.iiss.commonss.exception.BusinessException;
+import cn.iiss.commonss.validator.UpdateGroup;
 import io.vavr.control.Try;
 import java.io.Serializable;
 import java.util.Objects;

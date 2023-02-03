@@ -1,4 +1,4 @@
-package cn.iiss.commons.mapper;
+package cn.iiss.commonss.mapper;
 
 import java.time.Instant;
 import java.util.Objects;

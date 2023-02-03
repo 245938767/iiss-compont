@@ -42,7 +42,7 @@
         </dependency>
         <dependency>
             <groupId>cn.iiss</groupId>
-            <artifactId>iiss-commonss</artifactId>
+            <artifactId>iiss-commons</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>
